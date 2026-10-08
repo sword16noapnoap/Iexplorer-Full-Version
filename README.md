@@ -240,4 +240,4 @@ This repository serves as the official landing page for iExplorer. The software 
 **Get the most recent version of iExplorer today!**
 
 ---
-**Last updated:** 2026-10-07 21:11:31 UTC
+**Last updated:** 2026-10-08 01:29:40 UTC
